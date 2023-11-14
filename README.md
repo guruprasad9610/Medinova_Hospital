@@ -4,7 +4,7 @@ Medinova  is a comprehensive software solution that allows patients to convenien
 
 ## Deployed Link
 
-https://medinovahospital.netlify.app/
+https://medinovahospital.netlify.app
 
 ## About
 
